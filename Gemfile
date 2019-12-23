@@ -11,6 +11,13 @@ gem 'bcrypt','~> 3.1.7'
 gem 'bootstrap-sass', '~> 3.4.1'
 
 gem 'jquery-rails'
+
+gem 'gravtastic'
+
+gem 'will_paginate','3.1.5'
+
+gem 'bootstrap-will_paginate', '1.0.0'
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
